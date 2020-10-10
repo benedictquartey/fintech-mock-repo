@@ -1,5 +1,5 @@
-public class Cypsir {
+public class Cafvfd {
     public static void main() {
-        System.out.println("cnrfn");
+        System.out.println("twhcd");
     }
 }
