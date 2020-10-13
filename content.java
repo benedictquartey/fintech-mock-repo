@@ -1,5 +1,5 @@
-public class Cxfxuo {
+public class Cpguws {
     public static void main() {
-        System.out.println("tfmfs");
+        System.out.println("pwnis");
     }
 }
