@@ -1,5 +1,5 @@
-public class Cafvfd {
+public class Ccsugc {
     public static void main() {
-        System.out.println("twhcd");
+        System.out.println("sybks");
     }
 }
