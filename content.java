@@ -1,5 +1,5 @@
-public class Cdxpyk {
+public class Cubwoj {
     public static void main() {
-        System.out.println("afftw");
+        System.out.println("iacyu");
     }
 }
