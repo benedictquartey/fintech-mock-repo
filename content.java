@@ -1,5 +1,5 @@
-public class Cpguws {
+public class Cnjpos {
     public static void main() {
-        System.out.println("pwnis");
+        System.out.println("kqtlg");
     }
 }
