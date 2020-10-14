@@ -1,5 +1,5 @@
-public class Cnjpos {
+public class Cdxpyk {
     public static void main() {
-        System.out.println("kqtlg");
+        System.out.println("afftw");
     }
 }
