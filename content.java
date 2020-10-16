@@ -1,5 +1,5 @@
-public class Cubwoj {
+public class Cktdyp {
     public static void main() {
-        System.out.println("iacyu");
+        System.out.println("uetgw");
     }
 }
