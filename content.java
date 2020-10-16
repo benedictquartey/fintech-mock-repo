@@ -1,5 +1,5 @@
-public class Cjcruj {
+public class Ctctsv {
     public static void main() {
-        System.out.println("nhpfk");
+        System.out.println("dffoi");
     }
 }
