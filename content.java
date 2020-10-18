@@ -1,5 +1,5 @@
-public class Crsjvk {
+public class Cljyhf {
     public static void main() {
-        System.out.println("flvbx");
+        System.out.println("xmaog");
     }
 }
