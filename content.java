@@ -1,5 +1,5 @@
-public class Cljyhf {
+public class Cnfakt {
     public static void main() {
-        System.out.println("xmaog");
+        System.out.println("kaijl");
     }
 }
