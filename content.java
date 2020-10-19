@@ -1,5 +1,5 @@
-public class Cosaww {
+public class Clxfkt {
     public static void main() {
-        System.out.println("jlsic");
+        System.out.println("dttnr");
     }
 }
