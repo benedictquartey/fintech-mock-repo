@@ -1,5 +1,5 @@
-public class Cmvysl {
+public class Cgonmf {
     public static void main() {
-        System.out.println("jhunp");
+        System.out.println("mqlto");
     }
 }
