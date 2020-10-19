@@ -1,5 +1,5 @@
-public class Cnfakt {
+public class Cosaww {
     public static void main() {
-        System.out.println("kaijl");
+        System.out.println("jlsic");
     }
 }
