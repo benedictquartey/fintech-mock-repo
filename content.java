@@ -1,5 +1,5 @@
-public class Cmqlio {
+public class Cuwdro {
     public static void main() {
-        System.out.println("iyuvg");
+        System.out.println("ruscl");
     }
 }
