@@ -1,5 +1,5 @@
-public class Clxfkt {
+public class Cmqlio {
     public static void main() {
-        System.out.println("dttnr");
+        System.out.println("iyuvg");
     }
 }
