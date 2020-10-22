@@ -1,5 +1,5 @@
-public class Cuwdro {
+public class Ckedoq {
     public static void main() {
-        System.out.println("ruscl");
+        System.out.println("hfhjt");
     }
 }
