@@ -1,5 +1,5 @@
-public class Cardpk {
+public class Cghqno {
     public static void main() {
-        System.out.println("flvll");
+        System.out.println("ntqfr");
     }
 }
