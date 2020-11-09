@@ -1,5 +1,5 @@
-public class Cumpam {
+public class Cekrst {
     public static void main() {
-        System.out.println("ealkv");
+        System.out.println("ymxbk");
     }
 }
