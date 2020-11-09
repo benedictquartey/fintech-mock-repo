@@ -1,5 +1,5 @@
-public class Cghqno {
+public class Crebta {
     public static void main() {
-        System.out.println("ntqfr");
+        System.out.println("ujrov");
     }
 }
