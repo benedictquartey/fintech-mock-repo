@@ -1,5 +1,5 @@
-public class Cgaaje {
+public class Cumpam {
     public static void main() {
-        System.out.println("gmcwo");
+        System.out.println("ealkv");
     }
 }
