@@ -1,5 +1,5 @@
-public class Cxalyl {
+public class Cskrrs {
     public static void main() {
-        System.out.println("vqypu");
+        System.out.println("omeuu");
     }
 }
