@@ -1,5 +1,5 @@
-public class Cufkpx {
+public class Ctctgm {
     public static void main() {
-        System.out.println("ujaev");
+        System.out.println("urcqd");
     }
 }
