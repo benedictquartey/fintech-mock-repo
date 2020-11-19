@@ -1,5 +1,5 @@
-public class Cqyrgs {
+public class Cvtqjc {
     public static void main() {
-        System.out.println("fdjba");
+        System.out.println("alivc");
     }
 }
