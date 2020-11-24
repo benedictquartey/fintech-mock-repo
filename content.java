@@ -1,5 +1,5 @@
-public class Cyhwix {
+public class Catout {
     public static void main() {
-        System.out.println("sffdh");
+        System.out.println("rwevg");
     }
 }
