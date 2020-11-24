@@ -1,5 +1,5 @@
-public class Cqgddn {
+public class Cpidiy {
     public static void main() {
-        System.out.println("radjm");
+        System.out.println("vyexk");
     }
 }
