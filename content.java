@@ -1,5 +1,5 @@
-public class Cftatj {
+public class Cdjupp {
     public static void main() {
-        System.out.println("nqbeb");
+        System.out.println("nstvt");
     }
 }
