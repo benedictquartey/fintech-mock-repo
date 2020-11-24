@@ -1,5 +1,5 @@
-public class Cpidiy {
+public class Cyhwix {
     public static void main() {
-        System.out.println("vyexk");
+        System.out.println("sffdh");
     }
 }
