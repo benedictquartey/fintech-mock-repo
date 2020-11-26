@@ -1,5 +1,5 @@
-public class Ctwkmi {
+public class Cfitts {
     public static void main() {
-        System.out.println("bbtvp");
+        System.out.println("nkpeq");
     }
 }
