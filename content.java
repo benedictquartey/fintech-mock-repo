@@ -1,5 +1,5 @@
-public class Coubtr {
+public class Cmrhmh {
     public static void main() {
-        System.out.println("lgxmo");
+        System.out.println("captl");
     }
 }
