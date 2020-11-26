@@ -1,5 +1,5 @@
-public class Csmsht {
+public class Coubtr {
     public static void main() {
-        System.out.println("npsvl");
+        System.out.println("lgxmo");
     }
 }
