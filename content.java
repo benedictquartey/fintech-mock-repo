@@ -1,5 +1,5 @@
-public class Cfitts {
+public class Ctgdpl {
     public static void main() {
-        System.out.println("nkpeq");
+        System.out.println("flvpt");
     }
 }
