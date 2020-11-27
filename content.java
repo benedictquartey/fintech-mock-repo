@@ -1,5 +1,5 @@
-public class Cdrhwi {
+public class Cophts {
     public static void main() {
-        System.out.println("hfptu");
+        System.out.println("hhcwn");
     }
 }
