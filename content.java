@@ -1,5 +1,5 @@
-public class Cophts {
+public class Ctnyrl {
     public static void main() {
-        System.out.println("hhcwn");
+        System.out.println("laajl");
     }
 }
