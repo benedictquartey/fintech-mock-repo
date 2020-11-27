@@ -1,5 +1,5 @@
-public class Cmrhmh {
+public class Cjpjnw {
     public static void main() {
-        System.out.println("captl");
+        System.out.println("omlej");
     }
 }
