@@ -1,5 +1,5 @@
-public class Ctgdpl {
+public class Ckgied {
     public static void main() {
-        System.out.println("flvpt");
+        System.out.println("qavdq");
     }
 }
