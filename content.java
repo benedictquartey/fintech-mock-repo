@@ -1,5 +1,5 @@
-public class Cogwgb {
+public class Ctgujt {
     public static void main() {
-        System.out.println("auduq");
+        System.out.println("hasow");
     }
 }
