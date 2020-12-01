@@ -1,5 +1,5 @@
-public class Ctgujt {
+public class Coldag {
     public static void main() {
-        System.out.println("hasow");
+        System.out.println("puqaf");
     }
 }
