@@ -1,5 +1,5 @@
-public class Cirese {
+public class Cyjyis {
     public static void main() {
-        System.out.println("njxpu");
+        System.out.println("qcybe");
     }
 }
