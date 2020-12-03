@@ -1,5 +1,5 @@
-public class Cdxmmo {
+public class Ccatut {
     public static void main() {
-        System.out.println("bwouk");
+        System.out.println("xaqqy");
     }
 }
