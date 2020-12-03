@@ -1,5 +1,5 @@
-public class Cfgwhp {
+public class Citoxy {
     public static void main() {
-        System.out.println("dwkbr");
+        System.out.println("fxjak");
     }
 }
