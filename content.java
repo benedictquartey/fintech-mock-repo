@@ -1,5 +1,5 @@
-public class Cunneo {
+public class Cfafow {
     public static void main() {
-        System.out.println("arxpe");
+        System.out.println("usdxo");
     }
 }
