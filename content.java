@@ -1,5 +1,5 @@
-public class Ctsfub {
+public class Cfuats {
     public static void main() {
-        System.out.println("bdrox");
+        System.out.println("joyjm");
     }
 }
