@@ -1,5 +1,5 @@
-public class Citoxy {
+public class Cauvem {
     public static void main() {
-        System.out.println("fxjak");
+        System.out.println("fgynl");
     }
 }
