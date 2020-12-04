@@ -1,5 +1,5 @@
-public class Cnurcr {
+public class Cvewta {
     public static void main() {
-        System.out.println("glkwt");
+        System.out.println("aeamh");
     }
 }
