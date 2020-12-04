@@ -1,5 +1,5 @@
-public class Cslxly {
+public class Cnurcr {
     public static void main() {
-        System.out.println("dvvtw");
+        System.out.println("glkwt");
     }
 }
