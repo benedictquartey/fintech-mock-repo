@@ -1,5 +1,5 @@
-public class Cauvem {
+public class Cyhofm {
     public static void main() {
-        System.out.println("fgynl");
+        System.out.println("uuhyf");
     }
 }
