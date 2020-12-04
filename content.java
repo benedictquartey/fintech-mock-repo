@@ -1,5 +1,5 @@
-public class Cvhxhd {
+public class Cataah {
     public static void main() {
-        System.out.println("wbxgu");
+        System.out.println("tiuxx");
     }
 }
