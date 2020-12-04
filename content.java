@@ -1,5 +1,5 @@
-public class Cyhofm {
+public class Cgpwwl {
     public static void main() {
-        System.out.println("uuhyf");
+        System.out.println("xgves");
     }
 }
