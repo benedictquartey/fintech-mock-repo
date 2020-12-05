@@ -1,5 +1,5 @@
-public class Cxutma {
+public class Cigewj {
     public static void main() {
-        System.out.println("pokdt");
+        System.out.println("uvdlg");
     }
 }
