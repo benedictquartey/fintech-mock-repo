@@ -1,5 +1,5 @@
-public class Cigewj {
+public class Cccbka {
     public static void main() {
-        System.out.println("uvdlg");
+        System.out.println("diecn");
     }
 }
