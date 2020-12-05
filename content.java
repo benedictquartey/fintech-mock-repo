@@ -1,5 +1,5 @@
-public class Cdldrg {
+public class Cxutma {
     public static void main() {
-        System.out.println("loyeo");
+        System.out.println("pokdt");
     }
 }
