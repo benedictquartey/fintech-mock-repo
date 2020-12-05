@@ -1,5 +1,5 @@
-public class Csmcwq {
+public class Cbcvgl {
     public static void main() {
-        System.out.println("xxjom");
+        System.out.println("bleok");
     }
 }
