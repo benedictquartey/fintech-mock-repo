@@ -1,5 +1,5 @@
-public class Ctncxa {
+public class Chuibk {
     public static void main() {
-        System.out.println("vhbsl");
+        System.out.println("sqwtk");
     }
 }
