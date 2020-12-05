@@ -1,5 +1,5 @@
-public class Ccatut {
+public class Cdldrg {
     public static void main() {
-        System.out.println("xaqqy");
+        System.out.println("loyeo");
     }
 }
