@@ -1,5 +1,5 @@
-public class Cgpwwl {
+public class Ctncxa {
     public static void main() {
-        System.out.println("xgves");
+        System.out.println("vhbsl");
     }
 }
