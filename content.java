@@ -1,5 +1,5 @@
-public class Cbcvgl {
+public class Cynrqu {
     public static void main() {
-        System.out.println("bleok");
+        System.out.println("wfami");
     }
 }
