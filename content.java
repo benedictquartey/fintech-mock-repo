@@ -1,5 +1,5 @@
-public class Cccbka {
+public class Cdlcqa {
     public static void main() {
-        System.out.println("diecn");
+        System.out.println("gtfuk");
     }
 }
