@@ -1,5 +1,5 @@
-public class Cynrqu {
+public class Coiwwn {
     public static void main() {
-        System.out.println("wfami");
+        System.out.println("gbjfp");
     }
 }
