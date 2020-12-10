@@ -1,5 +1,5 @@
-public class Coiwwn {
+public class Cirghc {
     public static void main() {
-        System.out.println("gbjfp");
+        System.out.println("xskdm");
     }
 }
