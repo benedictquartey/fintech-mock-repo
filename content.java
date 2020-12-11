@@ -1,5 +1,5 @@
-public class Cirghc {
+public class Cumsln {
     public static void main() {
-        System.out.println("xskdm");
+        System.out.println("migyq");
     }
 }
