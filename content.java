@@ -1,5 +1,5 @@
-public class Cspekw {
+public class Ceuuap {
     public static void main() {
-        System.out.println("wkeqk");
+        System.out.println("khgcn");
     }
 }
