@@ -1,5 +1,5 @@
-public class Cgvlsj {
+public class Cdtuou {
     public static void main() {
-        System.out.println("copsd");
+        System.out.println("xlmqd");
     }
 }
