@@ -1,5 +1,5 @@
-public class Cumsln {
+public class Covipj {
     public static void main() {
-        System.out.println("migyq");
+        System.out.println("lgnxu");
     }
 }
