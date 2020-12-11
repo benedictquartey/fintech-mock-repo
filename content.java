@@ -1,5 +1,5 @@
-public class Ctpbcs {
+public class Cgvlsj {
     public static void main() {
-        System.out.println("tldyv");
+        System.out.println("copsd");
     }
 }
