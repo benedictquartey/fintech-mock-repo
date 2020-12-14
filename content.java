@@ -1,5 +1,5 @@
-public class Covipj {
+public class Cclvqp {
     public static void main() {
-        System.out.println("lgnxu");
+        System.out.println("vxvpa");
     }
 }
