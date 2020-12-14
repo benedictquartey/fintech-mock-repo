@@ -1,5 +1,5 @@
-public class Cdlcqa {
+public class Cbdlxy {
     public static void main() {
-        System.out.println("gtfuk");
+        System.out.println("vagua");
     }
 }
